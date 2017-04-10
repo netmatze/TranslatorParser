@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorParser", "TranslatorParser\TranslatorParser.csproj", "{F8D71078-4103-491E-A823-A398064BC576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorParserTests", "TranslatorParserTests\TranslatorParserTests.csproj", "{239A6B83-0F0A-4746-A59C-D647C1F6E406}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccProjectUniqueName0 = TranslatorParserTests\\TranslatorParserTests.csproj
+		SccProjectName0 = TranslatorParserTests
+		SccLocalPath0 = TranslatorParserTests
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = TranslatorParser\\TranslatorParser.csproj
+		SccProjectName2 = TranslatorParser
+		SccLocalPath2 = TranslatorParser
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D71078-4103-491E-A823-A398064BC576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D71078-4103-491E-A823-A398064BC576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D71078-4103-491E-A823-A398064BC576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D71078-4103-491E-A823-A398064BC576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239A6B83-0F0A-4746-A59C-D647C1F6E406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239A6B83-0F0A-4746-A59C-D647C1F6E406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239A6B83-0F0A-4746-A59C-D647C1F6E406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239A6B83-0F0A-4746-A59C-D647C1F6E406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
